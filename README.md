@@ -29,9 +29,9 @@ It focuses on the impact of rainfall, seasonality, cultivated area, fertilizer u
 - Fertilizer and pesticide usage are positively related
 
 ## Dashboard Overview
-![Dashboard Overview](Screenshot 2026-01-24 083635.png)
+![Dashboard Overview](dashboard-overview-1.png)
 
-![Dashboard Overview](Screenshot 2026-01-24 083653.png)
+![Dashboard Overview](dashboard-overview-2.png)
 
 ## Author
 **Arya V**  
