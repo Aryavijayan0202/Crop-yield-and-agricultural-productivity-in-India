@@ -16,9 +16,10 @@ It focuses on the impact of rainfall, seasonality, cultivated area, fertilizer u
 - **Time Period:** 1997 – 2020  
 
 ## Tools Used
-- Power BI
-- MS Excel (Data preprocessing)
-- Data Visualization
+- Power BI (Dashboard Development)
+- DAX (Measures & Calculated Columns)
+- MS Excel (Data Cleaning & Preprocessing)
+- Data Visualization & Insights
 
 ## Key Insights
 - Kharif season contributes the highest crop production
@@ -26,8 +27,6 @@ It focuses on the impact of rainfall, seasonality, cultivated area, fertilizer u
 - Rice and wheat dominate cultivated area
 - Coconut shows high yield efficiency
 - Fertilizer and pesticide usage are positively related
-
-## Dashboard Preview
 
 
 ## Author
